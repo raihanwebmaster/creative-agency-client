@@ -25,7 +25,7 @@ const Navbar = () => {
             </li>
             <li class="nav-item mr-3">
               <a class="nav-link" href="#">
-                Contact Us
+                Contact 
               </a>
             </li>
             <button className="navbar-login mr-3">Login</button>

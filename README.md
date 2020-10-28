@@ -1,19 +1,26 @@
-hello
+# Creative Agency
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## Details 
+Full-stack website having features for both general user and admin with different options of dashboard.
 
-### Making a Progressive Web App
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+## Feature
+- creative is a full stack dynamic website having different feature for admin and general user.
+- Admin will have differnt facility to CRUD databse.
+- For user there ase some facility to post there review and the reviews will be show on website home page.
+- Dashboard here shows different option for admin and user.
 
-### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
+## Technology
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+- JavaScript 
+- React-router
+- React 
+- Bootstrap
+- Node.js
+- Express.js
+- MongoDB 
+- Firebase Authentication 
+- Heroku 
 
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
